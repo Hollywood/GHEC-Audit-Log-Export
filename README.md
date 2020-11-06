@@ -1,4 +1,4 @@
-# GitHub Audit Log Export [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# GitHub Audit Log Export
 > A node utility to export the contents of an Organization's Audit Log to a JSON file.
 
 ## Pre-Requisites
