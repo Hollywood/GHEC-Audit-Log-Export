@@ -3,7 +3,7 @@
 
 ## Pre-Requisites
 
-- Make sure you create a `.env` file or rename the example in the repository to `.env` and then enter a PAT into the file.
+- Make sure you create a `.env` file or rename the example in the repository to `.env` and then enter a PAT into the file as `GITHUB_TOKEN=<your_token>`.
 
 ## Installation
 
